@@ -2,15 +2,10 @@
 
 
 /**
- * @author: N'goran Kouadio Jean Cyrille
+ * @author: Koua wilfried elvire
  * @description: Box Animation
  * Date : 25/01/2023
  */
-
-
-
-
-
 
 
 function handleClick(event) {
